@@ -1,0 +1,17 @@
+def parse(string)
+	split string around + or -
+	if - negate the second term
+	return array
+
+def square(array)
+	create new array
+	take param and square the first term and put into new array
+	double the product of the two terms
+	square the second term
+	combine the strings 
+
+take input as ARGV
+
+in the form of ax +/- bx
+
+output: ax^2 +/- bx +/- c 
